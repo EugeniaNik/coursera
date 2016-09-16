@@ -49,6 +49,7 @@ p {
 	background: #FFFF9D;
 	margin-right: 10px;
   	margin-left: 10px;
+  	margin-bottom: 20px;
   	
 }
 
@@ -57,6 +58,7 @@ p {
 	background: #BEEB9F;
 	margin-right: 10px;
   	margin-left: 10px;
+  	margin-bottom: 20px;
 
 }
 
@@ -90,7 +92,7 @@ p {
 	.d-mdf {
 		float: left;
 		width: 100%;
-		margin-top: 20px;
+		/*margin-top: 20px;*/
 	}
 		.d1, .d2, .d3 {
 		height: 250px;
@@ -103,5 +105,8 @@ p {
 	.d-sm {
 		float: left;
 		width:100%;
+		
 		}
+
+}
 	}
