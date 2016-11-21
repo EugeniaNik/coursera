@@ -1,0 +1,7 @@
+.main-text {
+	height: 800px;
+	background: turquoise;
+	/*padding: 20px;*/
+	border: 1px solid yellow;
+	margin-bottom: 10px;
+}
